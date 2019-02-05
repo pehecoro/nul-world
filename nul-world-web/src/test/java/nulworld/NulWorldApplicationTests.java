@@ -1,4 +1,4 @@
-package com.pehecoro.nulworld;
+package nulworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
