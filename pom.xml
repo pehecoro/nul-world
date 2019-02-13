@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.pehecoro</groupId>
     <artifactId>nul-world</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
     <name>nul-world</name>
     <description>Nul World Project</description>
 
@@ -41,7 +41,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/pehecoro/nul-world.git</developerConnection>
-      <tag>nul-world-0.0.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
