@@ -39,7 +39,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:pehecoro/nul-world.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/pehecoro/nul-world.git</developerConnection>
       <tag>nul-world-0.0.3</tag>
   </scm>
 
