@@ -3,7 +3,7 @@ package com.pehecoro.nulworld.model;
 import java.time.LocalDate;
 import java.util.List;
 
-public class Character {
+public class Character extends BaseEntity{
 
     private String firstName;
     private String lastName;

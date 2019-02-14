@@ -1,6 +1,6 @@
 package com.pehecoro.nulworld.model;
 
-public class Spell {
+public class Spell extends BaseEntity {
 
     private String name;
     private SpellType spellType;

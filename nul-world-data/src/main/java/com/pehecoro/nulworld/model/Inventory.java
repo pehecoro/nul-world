@@ -2,7 +2,7 @@ package com.pehecoro.nulworld.model;
 
 import java.util.List;
 
-public class Inventory {
+public class Inventory extends BaseEntity {
 
     private Character character;
     private List<Slot> slots;

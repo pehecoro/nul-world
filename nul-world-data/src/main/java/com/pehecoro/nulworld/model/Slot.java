@@ -1,6 +1,6 @@
 package com.pehecoro.nulworld.model;
 
-public class Slot {
+public class Slot extends BaseEntity {
 
     private Item item;
     private Long amount;

@@ -1,6 +1,6 @@
 package com.pehecoro.nulworld.model;
 
-public class Race {
+public class Race extends BaseEntity {
 
     private String name;
     private String description;
